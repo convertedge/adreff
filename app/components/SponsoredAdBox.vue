@@ -17,7 +17,7 @@
       <h3 class="text-xs font-medium text-gray-600">AdReff Sponsored Links</h3>
     </template>
 
-    <img src="/image1.png" />
+    <img id="adref_image_id" src="/image1.png" />
 
     <template #footer>
       <div class="p-3 space-y-2">

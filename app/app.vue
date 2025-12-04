@@ -81,7 +81,6 @@
         <div class="hidden lg:block">
           <div class="fixed top-20 w-80 space-y-6">
             <SponsoredAdBox :loading="isLoading" :showAd="showAds" />
-            <SponsoredAdBox :loading="isLoading" :showAd="showAds" />
           </div>
         </div>
       </div>

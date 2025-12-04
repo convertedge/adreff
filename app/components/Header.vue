@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-4">
       <div class="flex items-center justify-between h-16">
         <div class="flex items-center gap-3">
-          <Menu class="w-5 h-5 text-gray-600 lg:hidden" />
+          <!-- <Menu class="w-5 h-5 text-gray-600 lg:hidden" /> -->
           <div class="flex items-center gap-2">
             <div class="w-8 h-8 bg-gray-300 rounded" />
             <div class="w-20 h-6 bg-gray-300 rounded" />
